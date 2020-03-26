@@ -1,0 +1,24 @@
+{
+    "people" : [
+        {
+            "name":"Karen",
+            "age":22,
+            "email":"karen@gmail.com"
+        },
+        {
+            "name":"Kate",
+            "age":98,
+            "email":"kate@gmail.com"
+        },
+        {
+            "name":"Upton",
+            "age":65,
+            "email":"upton@gmail.com"
+        },
+        {
+            "name":"Sheeran",
+            "age":21,
+            "email":"sheeran@gmail.com"
+        }
+    ]
+}
